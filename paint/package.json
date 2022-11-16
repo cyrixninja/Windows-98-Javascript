@@ -72,7 +72,7 @@
     "electron-debug": "^3.0.1",
     "eslint": "6.4.0",
     "live-server": "^1.2.1",
-    "serve": "11.2.0",
+    "serve": "14.1.1",
     "start-server-and-test": "1.10.6"
   },
   "scripts": {
