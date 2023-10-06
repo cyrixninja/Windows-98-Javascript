@@ -58,11 +58,11 @@
     "wallpaper": "4.4.1"
   },
   "devDependencies": {
-    "@electron-forge/cli": "6.0.0-beta.45",
-    "@electron-forge/maker-deb": "6.0.0-beta.45",
-    "@electron-forge/maker-rpm": "6.0.0-beta.45",
-    "@electron-forge/maker-squirrel": "6.0.0-beta.45",
-    "@electron-forge/maker-zip": "6.0.0-beta.45",
+    "@electron-forge/cli": "6.4.2",
+    "@electron-forge/maker-deb": "6.4.2",
+    "@electron-forge/maker-rpm": "6.4.2",
+    "@electron-forge/maker-squirrel": "6.4.2",
+    "@electron-forge/maker-zip": "6.4.2",
     "concat-glob-cli": "^0.1.0",
     "cross-spawn": "^7.0.0",
     "cypress": "4.12.1",
@@ -73,7 +73,7 @@
     "eslint": "6.4.0",
     "live-server": "^1.2.1",
     "serve": "11.2.0",
-    "start-server-and-test": "1.10.6"
+    "start-server-and-test": "1.15.4"
   },
   "scripts": {
     "start": "electron-forge start",
