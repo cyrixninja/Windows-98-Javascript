@@ -73,7 +73,7 @@
     "eslint": "6.4.0",
     "live-server": "^1.2.1",
     "serve": "11.2.0",
-    "start-server-and-test": "1.15.4"
+    "start-server-and-test": "2.0.3"
   },
   "scripts": {
     "start": "electron-forge start",
